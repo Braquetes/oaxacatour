@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893555165696",
+    "project_id": "oaxacatour-20430",
+    "storage_bucket": "oaxacatour-20430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893555165696:android:611e032aaa4ed7e771a6e5",
+        "android_client_info": {
+          "package_name": "com.example.oaxacatour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893555165696-a0s8st2ufaf2mlr55l8po6ij6r3dnecg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oaxacatour",
+            "certificate_hash": "4dc24550f7dcfd6db0bdd8e291a1abc2e3982a3e"
+          }
+        },
+        {
+          "client_id": "893555165696-gs2el7sgn59l0mfr0k3n8shi7psnef1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tMZ29YgYB4okdp48PkExeeWQL5lbMOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893555165696-gs2el7sgn59l0mfr0k3n8shi7psnef1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
